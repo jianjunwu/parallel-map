@@ -22,7 +22,7 @@ setup(
     author="NICHOLAS WU",
     author_email="nicholas_wu@aliyun.com",
     description="An easy to use library to speed up computation (by parallelizing on multi CPUs).",
-    long_description="See https://github.com/nalepae/pandarallel/tree/v1.4.8 for complete user guide.",
+    long_description="See https://github.com/jianjunwu/parallel-map for complete user guide.",
     url="https://github.com/jianjunwu/parallel-map",
     install_requires=install_requires,
     license="MIT",

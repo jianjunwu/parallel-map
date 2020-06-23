@@ -16,7 +16,7 @@ install_requires = ["dill", "pandarallel"]
 
 setup(
     name="parallelmap",
-    version="0.0.9",
+    version="0.0.1",
     python_requires=">=3.5",
     packages=find_packages(),
     author="NICHOLAS WU",

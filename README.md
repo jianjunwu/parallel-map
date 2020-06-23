@@ -27,7 +27,7 @@ parallel_map(add, data1, data2, nb_workers=2)
 
 ```
 # set progress bar
-parallel_map(add, data1, data2, nb_workers=2)
+parallel_map(add, data1, data2, progress_bar=True)
 ```
 ![进度条](./images/img1.jpg)
  
